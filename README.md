@@ -2,8 +2,14 @@
 **Local AI Virtual Assistant - Powerful, Private & Optimized for Low-End and Mid-Range PCs.**
 
 [![License](https://img.shields.io/badge/Lilence-Personal_Use-red.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)[![Status](https://img.shields.io/badge/Status-Stable-success.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Stable-success.svg)]()
 
+<br>
+<p align="center">
+  <img src="assets/demo-chat.jpg" alt="Draco AI Main Interface" width="100%">
+</p>
+<br>
 
 ## 📖 Introduction
 Draco AI is an intelligent virtual assistant that runs completely **Offline** on Windows PCs. This project was developed by **Nguyen Huu Duc** with the goal of providing a high-end, secure, and completely free AI experience for the community.
@@ -18,6 +24,11 @@ Draco AI is an intelligent virtual assistant that runs completely **Offline** on
 - **👁️ Computer Vision:** Capable of "seeing" and analyzing the screen or images.
 
 - **🎨 GUI Interface:** Modern, Dark Mode, optimized user experience.
+
+<p align="center">
+  <img src="assets/demo-features.jpg" alt="Draco Features List" width="48%">
+  <img src="assets/demo-coding.jpg" alt="Draco Coding Support" width="48%">
+</p>
 
 ---
 
